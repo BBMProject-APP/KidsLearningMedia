@@ -1,0 +1,5 @@
+- [x] Remove AdMob dependency from `app/build.gradle`
+- [x] Remove AdMob meta-data from `AndroidManifest.xml`
+- [x] Remove AdMob implementation from `MainActivity.java`
+- [x] Delete `AdMobInterstitialPlugin.txt`
+- [x] Verify build
